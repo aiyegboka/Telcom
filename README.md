@@ -1,5 +1,6 @@
 # **CUSTOMER CHUN ANALYSIS**
 
+![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 <p>
 This project worked on is a real world dataset from a telecom company that includes customer information, such as demographics, usage patterns, and whether they churned (i.e., left the company) or not. The analysis comprises of steps i.e cleaning and preprocessing, exploration, modelling, visualisation and summary.
 <br>

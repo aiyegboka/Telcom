@@ -1,10 +1,7 @@
 # **CUSTOMER CHUN ANALYSIS**
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
-<<<<<<< HEAD
 
-=======
->>>>>>> 887a9a96779cf152f77052f72207f4c6a092801b
 <p>
 This project worked on is a real world dataset from a telecom company that includes customer information, such as demographics, usage patterns, and whether they churned (i.e., left the company) or not. The analysis comprises of steps i.e cleaning and preprocessing, exploration, modelling, visualisation and summary.
 <p><img style="float: left; margin:25px 50px 25px 10px; width:80%"
@@ -60,7 +57,6 @@ The analysis was carried out with objectives stated as follows:
 </ul>
 </p>
 
-<<<<<<< HEAD
 </p>
 
 ![Churned_Customers](https://github.com/aiyegboka/Telcom/assets/40834421/c4758d40-addd-40ee-b9c0-82ab397a9c99)
@@ -73,10 +69,3 @@ The analysis was carried out with objectives stated as follows:
 <p><h3><b>Recommendation</b></h3>
 <h4>There has to be readily available internet service to keep customer retention</h4>
 <p>
-=======
-![Churned_Customers](https://github.com/aiyegboka/Telcom/assets/40834421/c4758d40-addd-40ee-b9c0-82ab397a9c99)
-
-![Internet Service Distribution](https://github.com/aiyegboka/Telcom/assets/40834421/878e4c26-d7eb-4fa2-b787-e01b83702c17)
-
-</p>
->>>>>>> 887a9a96779cf152f77052f72207f4c6a092801b

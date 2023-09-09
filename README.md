@@ -7,11 +7,11 @@ This project worked on is a real world dataset from a telecom company that inclu
 The analysis was carried out with objectives stated as follows:
 <ol>
     <li>Cleaning and Preprocessing the dataset.</li>
-    <li>Explore Distribution of key variables.</li>
+    <li>Exploratory Data Analysis.</li>
     <li>Convey information through Data Visualisation that affects customer churn.</li>
     <br>
     <ol>
-        <li>Cleaning and Preprocessing the dataset:
+        <li><b>Cleaning and Preprocessing the dataset:</b>
         <p>This process is tantamount and a prereauisite to other steps of Data Analysis. It entails viewing the properties, size, statistical summary and size of the data. Major aim of this process includes:
         <ul style= 'list-style-type:square'>
         <li>Removing Duplicates: duplicated values will skew analysis performance, to avoid that, it's always best to check for duplicates using variable<code>.duplicated().sum()</code>(to check for the count of duplicated values) and drop them.</li>
@@ -23,8 +23,8 @@ The analysis was carried out with objectives stated as follows:
         </p>
         </li>
         <br>
-        <li>Explore Distribution of key variables:
-        <p>This involves scanning through the data for quantitative and qualitative features.
+        <li><b>Exploratory Data Analysis:</b>
+        <p>This helps explore the questions to ask, and involves scanning through the data for quantitative and qualitative features.
         <ul style= 'list-style-type:square'>
         <li>Perform Descriptive Statistics: calculating the statistical summary for quantitative/numerical features with the <code>describe</code> function, which displays the count, mean, std, min, 1st quantile,median, 3rd quantile, maximum values of wach numerical feature.</li>
         <li>Analyse the distribution of categorical features: distribution includes counts, ratios.</li>
@@ -34,7 +34,7 @@ The analysis was carried out with objectives stated as follows:
         </p>
         </li>
         <br>
-        <li>Convey information through Data Visualisation:
+        <li><b>Convey information through Data Visualisation:</b>
         <p>Showcasing the pictorial result of the cleaned and analysed dataset. It comprises of:
         <ul style= 'list-style-type:square'>
         <li>Identifying Trends: this is done through visualisation of scatter plots, line plots and bar plots</li>
@@ -53,5 +53,7 @@ The analysis was carried out with objectives stated as follows:
     <li><code>plotly</code></li>
 </ul>
 </p>
+![Churned_Customers](https://github.com/aiyegboka/Telcom/assets/40834421/c4758d40-addd-40ee-b9c0-82ab397a9c99)
+![Internet Service Distribution](https://github.com/aiyegboka/Telcom/assets/40834421/878e4c26-d7eb-4fa2-b787-e01b83702c17)
 
 </p>

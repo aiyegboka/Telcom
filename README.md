@@ -53,7 +53,9 @@ The analysis was carried out with objectives stated as follows:
     <li><code>plotly</code></li>
 </ul>
 </p>
+
 ![Churned_Customers](https://github.com/aiyegboka/Telcom/assets/40834421/c4758d40-addd-40ee-b9c0-82ab397a9c99)
+
 ![Internet Service Distribution](https://github.com/aiyegboka/Telcom/assets/40834421/878e4c26-d7eb-4fa2-b787-e01b83702c17)
 
 </p>
